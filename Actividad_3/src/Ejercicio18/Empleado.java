@@ -10,5 +10,5 @@ public class Empleado{
     public static double calcular_salario_neto(double salario_bruto, double porcentaje_retencion) {
         return salario_bruto - (porcentaje_retencion * salario_bruto);
     }
-    hola
+    
 }
